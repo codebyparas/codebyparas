@@ -1,4 +1,4 @@
-# Hey There, Welcome to my Profile
+# Hey There,
 - 👋 I'm Paras-Sachdeva 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m open to collaboration
