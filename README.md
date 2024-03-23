@@ -24,11 +24,11 @@
 <!--### Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras-Sachdeva&show_icons=true&hide_title=true)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Sachdeva&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Sachdeva&layout=compact)
 
 ---
 ### Featured Projects
-- [Book Pedlar](https://github.com/Paras-Sachdeva/Book-Pedlar) : An Online Second-Hand Book Trading Platform.
+- [Book Pedlar](https://github.com/Paras-Sachdeva/Book-Pedlar) : An Online Second-Hand Book Trading Platform.-->
 
 <!---
 Paras-Sachdeva/Paras-Sachdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
