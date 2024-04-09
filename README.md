@@ -1,5 +1,5 @@
 # Hey There!
-- 👋 I'm Paras-Sachdeva 
+- 👋 I'm Paras Sachdeva 
 - 🌱 I’m currently working on my Final Year Project
 - 💞️ I’m open to collaboration
 - 📫 How to reach me paras140902@gmail.com
