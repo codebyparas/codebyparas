@@ -1,7 +1,6 @@
 # Hey There!
 - 👋 I'm Paras Sachdeva
 - ⚡ My Daily Dose of Dopamine -> Coding
-- 🌱 I’m currently learning Data Structures
 - 💞️ I’m open to collaboration
 - 📫 How to reach me paras140902@gmail.com
 - 🌍 Haryana, India
